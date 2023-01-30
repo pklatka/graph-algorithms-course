@@ -10,4 +10,4 @@ This repository consists of solutions for graph algorithms course at AGH UST. Ev
 - [project1](https://github.com/pklatka/graph-algorithms-course/tree/main/project1): finding minimum cost of planning K performances
 - [project2](https://github.com/pklatka/graph-algorithms-course/tree/main/project2): connected vertex cover problem
 
-If this repository helped you, don't forget to star ⭐️ or fork 🍴.
+If this repository helped you, don't forget to star ⭐️ or fork🍴.
