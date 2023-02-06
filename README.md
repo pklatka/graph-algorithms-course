@@ -8,6 +8,5 @@ This repository consists of solutions for graph algorithms course at AGH UST. Ev
 - [lab3](https://github.com/pklatka/graph-algorithms-course/tree/main/lab3): solving minimum cut problem with max-flow and Stoer-Wagner algorithm
 - [lab4](https://github.com/pklatka/graph-algorithms-course/tree/main/lab4): detecting chordal graphs, finding the greatest clique in graph, calculating chromatic number of graph, the minimum vertex cover problem
 - [project1](https://github.com/pklatka/graph-algorithms-course/tree/main/project1): finding minimum cost of planning K performances
-- [project2](https://github.com/pklatka/graph-algorithms-course/tree/main/project2): connected vertex cover problem
 
 If this repository helped you, don't forget to star ⭐️ or fork🍴.
