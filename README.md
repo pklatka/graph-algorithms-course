@@ -2,7 +2,7 @@
 
 This repository consists of solutions for graph algorithms course at AGH UST. Every task is in a separate folder. Solutions were written using Python. Each folder contains a task description in Polish.
 
-## Short descriptions of given tasks
+## Tasks
 - [lab1](https://github.com/pklatka/graph-algorithms-course/tree/main/lab1): finding the most expensive path in a graph
 - [lab2](https://github.com/pklatka/graph-algorithms-course/tree/main/lab2): max-flow algorithm implementation
 - [lab3](https://github.com/pklatka/graph-algorithms-course/tree/main/lab3): solving minimum cut problem with max-flow and Stoer-Wagner algorithm
