@@ -1,6 +1,6 @@
 # Graph algorithms course
 
-This repository consists of solutions for graph algorithms course at AGH UST. Every task is in a separate folder. Solutions were written using Python. Each folder contains a task description in Polish.
+This repository contains solutions for graph algorithms course at AGH UST. Every task is in a separate folder. Solutions were written using Python. Each folder contains a task description in Polish.
 
 ## Tasks
 - [lab1](https://github.com/pklatka/graph-algorithms-course/tree/main/lab1): finding the most expensive path in a graph
